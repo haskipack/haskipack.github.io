@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app100.us.archive.org';v.server_ms=725;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/ait-client-rewrite.js" charset="utf-8"></script>
+<script type="text/javascript">
+WB_wombat_Init("https://web.archive.org/web", "20190619072231", "www.youtube.com");
+</script>
+<script type="text/javascript" src="/_static/js/wbhack.js" charset="utf-8"></script>
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css" />
+<!-- Start Wayback Rewrite JS Include -->
+<script type="text/javascript" src="/_static/js/jwplayer/jwplayer.js" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/video-embed-rewriter.js" charset="utf-8"></script>
+<script type="text/javascript">
+_wmVideos_.init("/web");
+</script>
+<!-- End Wayback Rewrite JS Include -->
+<opensearchdescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <shortname>YouTube</shortname>
+  <description>Search for videos on YouTube</description>
+  <tags>youtube video</tags>
+  <image height="16" width="16" type="image/vnd.microsoft.icon">https://www.youtube.com/favicon.ico</image>
+  <url type="text/html" template="https://www.youtube.com/results?search_query={searchTerms}&amp;page={startPage?}&amp;utm_source=opensearch"/>
+  <query role="example" searchterms="cat"/>
+</opensearchdescription>
+<!--
+     FILE ARCHIVED ON 07:22:31 Jun 19, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:39:30 Jun 19, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 241.216 (6)
+  esindex: 8.429
+  CDXLines.iter: 23.871 (3)
+  PetaboxLoader3.datanode: 458.605 (8)
+  exclusion.robots: 0.215
+  exclusion.robots.policy: 0.198
+  RedisCDXSource: 39.494
+  PetaboxLoader3.resolve: 18.949
+  load_resource: 350.19
+-->
